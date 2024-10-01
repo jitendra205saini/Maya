@@ -1,12 +1,18 @@
+### Maya installetion ###
 
- ### Maya installetion ###
+1.requirements :- 
 
-## requirements ## 
-python varsion 3.10
-anaconda
-FFMPEG
-CUDO
-cuDNN
+(i) python varsion 3.10
+
+(ii) [anaconda](https://www.anaconda.com/download/)
+
+(iii) FFMPEG
+
+(iv) CUDO
+
+(v) cuDNN
+
+(vi) [model](https://github.com/Hillobar/Rope/releases/tag/Sapphire)
 
 1. Select a folder, or create one (not /system32). Once you're in that folder, you can right-click it and select, 'Open in Terminal'
 
@@ -52,7 +58,7 @@ Important: Make sure that you install the virtual environment with the correct p
 Download and install 3rd-party dependencies
 Install the models
 
-To get access to all the features of Rope, you need to download the models from here. You need all of the files.
+To get access to all the features of Rope, you need to download [the models from here](https://github.com/Hillobar/Rope/releases/tag/Sapphire). You need all of the files.
 
 Place the downloaded model files in the Rope/models folder
 
