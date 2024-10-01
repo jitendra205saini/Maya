@@ -1,5 +1,12 @@
 
- ## Maya installetion ###
+ ### Maya installetion ###
+
+## requirements ## 
+python varsion 3.10
+anaconda
+FFMPEG
+CUDO
+cuDNN
 
 1. Select a folder, or create one (not /system32). Once you're in that folder, you can right-click it and select, 'Open in Terminal'
 
