@@ -1,4 +1,4 @@
-### Maya installetion ### 😊😁
+### Maya installetion 😊😁
 
 ----
 1.requirements :- 
