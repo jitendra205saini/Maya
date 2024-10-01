@@ -1,5 +1,6 @@
-### Maya installetion ###
---
+### Maya installetion 😊### 
+
+----
 1.requirements :- 
 
 (i) [python varsion 3.10](https://www.python.org/downloads/windows/)
@@ -59,7 +60,7 @@ python -m pip install -r requirements.txt
 Important: Make sure that you install the virtual environment with the correct python version. Rope only works with with any 3.10 version, nothing older or newer than that.
 
 4.Download and install 3rd-party dependencies
---
+
 - Install the models
 
   - To get access to all the features of Rope, you need to download [the models from here](https://www.kaggle.com/models/jitendrakumarsaini25/maya_face_-swapping).scroll down and You need all of the files.
@@ -90,7 +91,7 @@ Important: Make sure that you install the virtual environment with the correct p
      - [Follow these instructions](https://www.youtube.com/watch?v=GPBeiKYkuZE&t=240s) to install cuDNN
 
 ### How to update ###
---
+   
    - To update the repository to its latest version, simply navigate to the maya directory and open the terminal.
 ```
 # pull and apply the latest updates from Github
