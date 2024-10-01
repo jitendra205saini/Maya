@@ -12,7 +12,7 @@
 
 (v) [cuDNN](https://developer.nvidia.com/rdp/cudnn-archive#:~:text=Explore%20and%20download%20past%20releases%20from%20cuDNN)
 
-(vi) [model](https://www.kaggle.com/models/jitendrakumarsaini25/maya_face_-swapping)
+(vi) [model](https://www.kaggle.com/models/jitendrakumarsaini25/maya_face_-swapping) scroll down and all file download 
 
 1. Select a folder, or create one (not /system32). Once you're in that folder, you can right-click it and select, 'Open in Terminal'
 
@@ -61,7 +61,7 @@ Important: Make sure that you install the virtual environment with the correct p
 4.Download and install 3rd-party dependencies
 - Install the models
 
-  - To get access to all the features of Rope, you need to download [the models from here](https://www.kaggle.com/models/jitendrakumarsaini25/maya_face_-swapping). You need all of the files.
+  - To get access to all the features of Rope, you need to download [the models from here](https://www.kaggle.com/models/jitendrakumarsaini25/maya_face_-swapping).scroll down and You need all of the files.
 
   - Place the downloaded model files in the ```maya/models``` folder
 
