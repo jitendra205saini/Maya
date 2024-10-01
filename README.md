@@ -25,7 +25,7 @@ or,
 
 **Download the .zip from Github and unzip to your folder**
 
-3. Set up a local venv. Inside CMD, make sure you are in the Rope folder. you should have /rope, /models, as subfolders.
+3. Set up a local venv. Inside CMD, make sure you are in the maya folder. you should have /maya, /models, as subfolders.
 ```
 # create the virtual environment
 python.exe -m venv venv
