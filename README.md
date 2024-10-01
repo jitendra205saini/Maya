@@ -1,7 +1,7 @@
-### Maya installetion 😊😁
+### Maya installetion 😊 :-
 
 ----
-1.requirements :- 
+1.requirements 👉 
 
 (i) [python varsion 3.10](https://www.python.org/downloads/windows/)
 
