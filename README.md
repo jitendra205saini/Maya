@@ -2,15 +2,15 @@
 
 1.requirements :- 
 
-(i) python varsion 3.10
+(i) [python varsion 3.10](https://www.python.org/downloads/windows/)
 
 (ii) [anaconda](https://www.anaconda.com/download/)
 
-(iii) FFMPEG
+(iii) [FFMPEG](https://www.ffmpeg.org/download.html)
 
-(iv) CUDO
+(iv) [CUDO](https://developer.nvidia.com/cuda-12-4-0-download-archive#:~:text=Select%20Target%20Platform.%20Click%20on%20the%20green%20buttons%20that)
 
-(v) cuDNN
+(v) [cuDNN](https://developer.nvidia.com/rdp/cudnn-archive#:~:text=Explore%20and%20download%20past%20releases%20from%20cuDNN)
 
 (vi) [model](https://github.com/Hillobar/Rope/releases/tag/Sapphire)
 
@@ -18,12 +18,12 @@
 
 2. Clone the repository to your folder:
 ```
-git clone https://github.com/Hillobar/Rope
-cd Rope
+git clone https://github.com/jitendra205saini/Maya.git
+cd Maya
 ```
 or,
 
-Download the .zip from Github and unzip to your folder
+**Download the .zip from Github and unzip to your folder**
 
 3. Set up a local venv. Inside CMD, make sure you are in the Rope folder. you should have /rope, /models, as subfolders.
 ```
@@ -33,26 +33,29 @@ python.exe -m venv venv
 # activate the local venv
 .\venv\Scripts\activate
 
-# check if you have installed the correct python version (Python 3.10.X)
+# check if you have installed the correct python version (Python 3.10)
 python --version
 
-# install the dependencies for Rope
+# install the dependencies for maya
 .\venv\Scripts\pip.exe install -r .\requirements.txt
 or using anaconda3
 ```
 
 or using anaconda3
-```
+````
+#open same loction D:/maya/ in anaconda terminal
+cd /d D:\maya\maya --your folder location--
+
 # create a conda venv with the correct python version
-conda create -n Rope python=3.10.13
+conda create -n Maya python=3.10
 
 # activate the virtual environment
-conda activate Rope
+conda activate Maya
 
 # install the dependencies
 python -m pip install -r requirements.txt
+````
 
-```
 Important: Make sure that you install the virtual environment with the correct python version. Rope only works with with any 3.10 version, nothing older or newer than that.
 
 Download and install 3rd-party dependencies
@@ -60,25 +63,31 @@ Install the models
 
 To get access to all the features of Rope, you need to download [the models from here](https://github.com/Hillobar/Rope/releases/tag/Sapphire). You need all of the files.
 
-Place the downloaded model files in the Rope/models folder
+Place the downloaded model files in the ```maya/models``` folder
 
 Install the external dependencies (if you haven't done so already)
 
-FFMPEG
+***#FFMPEG***
 
-Download FFMPEG here
-CUDA Toolkit 11.8 (needed if utilizing GPU)
+   • [Download FFMPEG here](https://www.ffmpeg.org/download.html)
 
-Follow these instructions to install CUDA Toolkit v11.8
+   • [Follow these instructions](https://www.youtube.com/watch?v=4jx2_j5Seew)to install FFMPEG
 
-Check if the installation was successful (run in the terminal)
+***#CUDA Toolkit 12.4(needed if utilizing GPU)***
 
-nvcc --version
-cuDNN >= v8.5 for CUDA 11.x (needed if utilizing GPU)
+   • [Download](https://developer.nvidia.com/cuda-12-4-0-download-archive#:~:text=Select%20Target%20Platform.%20Click%20on%20the%20green%20buttons%20that) the cudo toolkit
 
-Download the cuDNN >= v8.5
+   • [Follow these instructions](https://www.youtube.com/watch?v=r7Am-ZGMef8&t=612s)to install CUDA Toolkit v12.4
 
-Follow these instructions to install cuDNN
+   • Check if the installation was successful (run in the terminal)
+
+  • ```nvcc --version```
+
+***#cuDNN = latest for CUDA 12.4 (needed if utilizing GPU)***
+
+  • [Download](https://developer.nvidia.com/rdp/cudnn-archive#:~:text=Explore%20and%20download%20past%20releases%20from%20cuDNN) the cuDNN = latest
+
+   •  [Follow these instructions](https://www.youtube.com/watch?v=GPBeiKYkuZE&t=240s) to install cuDNN
 
 ###How to update
 To update the repository to its latest version, simply navigate to the Rope directory and open the terminal.
