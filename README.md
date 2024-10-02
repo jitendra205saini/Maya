@@ -48,6 +48,9 @@ or,
 **Download the .zip from Github and unzip to your folder**
 
 3. Set up a local venv. Inside CMD, make sure you are in the maya folder. you should have /maya, /models, as subfolders.
+
+![](https://github.com/jitendra205saini/Maya/blob/main/maya/maya/media/Screenshot%202024-10-02%20172025.png?raw=true)
+   
 ```
 # create the virtual environment
 python.exe -m venv venv
