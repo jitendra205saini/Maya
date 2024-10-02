@@ -67,6 +67,9 @@ or using anaconda3
 ```
 
 or using anaconda3
+
+![](https://github.com/jitendra205saini/Maya/blob/main/maya/maya/media/Screenshot%202024-10-02%20172209.png?raw=true)
+
 ````
 #open same loction D:/maya/ in anaconda terminal
 cd /d D:\maya\maya --your folder location--
