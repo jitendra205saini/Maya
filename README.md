@@ -147,6 +147,10 @@ git reset --hard origin/master
 
 ---
 
+
+Follow me on LinkedIn : [click](https://www.linkedin.com/in/jitendarkumarsaini25/)
+
+
 **Disclaimer**: Modules like the GFPGAN, CLIP, Occluder, and Mouth Parser are not automatically loaded into memory until you activate them manually. This saves you precious memory and allows you to increase the amount of threads if you have lower memory.
 
 
