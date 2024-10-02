@@ -1,3 +1,7 @@
+![](https://github.com/jitendra205saini/Maya/blob/main/maya/maya/media/splash.png?raw=true)
+
+
+
 ### 1. श्लोक :- ###
 
 - माया मृगतृष्णा सदा चलिता, निजस्वरूप विस्मृति पलिता ।<br>
