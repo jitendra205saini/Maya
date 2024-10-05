@@ -67,7 +67,7 @@ python --version
 
 # install the dependencies for maya
 .\venv\Scripts\pip.exe install -r .\requirements.txt
-or using anaconda3
+
 ```
 
 or using anaconda3
