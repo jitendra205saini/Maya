@@ -57,7 +57,7 @@ or,
    
 ```
 # create the virtual environment
-python3.10 -m venv venv
+py -3.10 -m venv venv
 
 # activate the local venv
 .\venv\Scripts\activate
