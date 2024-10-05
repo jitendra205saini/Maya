@@ -38,7 +38,7 @@
 
 (v) [cuDNN](https://developer.nvidia.com/rdp/cudnn-archive#:~:text=Explore%20and%20download%20past%20releases%20from%20cuDNN)
 
-(vi) [model](https://www.kaggle.com/models/jitendrakumarsaini25/maya_face_-swapping) scroll down and all file download 
+(vi) [models](https://www.kaggle.com/models/jitendrakumarsaini25/maya_face_-swapping) scroll down and all file download 
 
 1. Select a folder, or create one (not /system32). Once you're in that folder, you can right-click it and select, 'Open in Terminal'
 
@@ -57,10 +57,10 @@ or,
    
 ```
 # create the virtual environment
-py -3.10 -m venv venv
+py -3.10 -m venv venv310
 
 # activate the local venv
-.\venv\Scripts\activate
+.\venv310\Scripts\activate
 
 # check if you have installed the correct python version (Python 3.10)
 python --version
