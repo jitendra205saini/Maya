@@ -66,7 +66,7 @@ py -3.10 -m venv venv310
 python --version
 
 # install the dependencies for maya
-.\venv\Scripts\pip.exe install -r .\requirements.txt
+.\venv310\Scripts\pip.exe install -r .\requirements.txt
 
 ```
 
