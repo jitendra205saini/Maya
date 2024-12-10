@@ -57,16 +57,16 @@ or,
    
 ```
 # create the virtual environment
-py -3.10 -m venv venv310
+py -3.10 -m venv mayaEnv
 
 # activate the local venv
-.\venv310\Scripts\activate
+.\mayaEnv\Scripts\activate
 
 # check if you have installed the correct python version (Python 3.10)
 python --version
 
 # install the dependencies for maya
-.\venv310\Scripts\pip.exe install -r .\requirements.txt
+.\mayaEnv\Scripts\pip.exe install -r .\requirements.txt
 
 ```
 
