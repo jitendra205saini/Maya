@@ -103,8 +103,10 @@ Important: Make sure that you install the virtual environment with the correct p
    - ***FFMPEG***
 
       - [Download FFMPEG here](https://www.ffmpeg.org/download.html)
+      
+      - Watch the installation instructions by clicking the image below:
 
-     - [<img src="https://i.ytimg.com/vi/4jx2_j5Seew/maxresdefault.jpg" alt="FFMPEG Installation Instructions" width="300">](https://www.youtube.com/watch?v=4jx2_j5Seew)
+      - [<img src="https://i.ytimg.com/vi/4jx2_j5Seew/maxresdefault.jpg" alt="FFMPEG Installation Instructions" width="300">](https://www.youtube.com/watch?v=4jx2_j5Seew)
 
   - ***CUDA Toolkit 12.4(needed if utilizing GPU)***
 
