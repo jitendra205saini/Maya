@@ -25,6 +25,13 @@
 
 ### Maya installetion 😊 :-
 
+**Hardware Requirements**:
+
+| Requirement Type | CPU | RAM | GPU | Storage | OS |
+|------------------|-----|-----|-----|---------|----|
+| **Minimum**      | Intel Core i5 | 8 GB | NVIDIA GTX 1050 (2 GB VRAM) | 10 GB SSD | Windows 10/11 |
+| **Recommended**  | Intel Core i7 | 16 GB | NVIDIA RTX 2060 (6 GB VRAM) | 20 GB NVMe SSD | Windows 11 |
+
 ----
 1.requirements 👉 
 
