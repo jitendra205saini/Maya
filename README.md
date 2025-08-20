@@ -149,9 +149,9 @@ maya/
     
      - [Download python here](https://www.python.org/downloads/windows/)
 
-- ***anaconda***
+- ***Anaconda***
 
-     - [Download python here](https://www.anaconda.com/download/)
+     - [Download Anaconda here](https://www.anaconda.com/download/)
 
 - ***models***
 
