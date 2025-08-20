@@ -156,7 +156,7 @@ maya/
 - ***models***
 
      - [Download Kaggle here](https://www.kaggle.com/models/jitendrakumarsaini25/maya_face_-swapping)
-       ![](https://github.com/jitendra205saini/Maya/blob/main/maya/maya/media/Screenshot%202024-10-02%20172025.png?raw=true)
+       ![](https://github.com/jitendra205saini/Maya/blob/main/maya/instruction_image_folder_not_use_this_code/kaggle.png?raw=true)
 
 1. Select a folder, or create one (not /system32). Once you're in that folder, you can right-click it and select, 'Open in Terminal'
 
@@ -190,7 +190,7 @@ python --version
 
 or using anaconda3
 
-![](https://github.com/jitendra205saini/Maya/blob/main/maya/instruction_image_folder_not_use_this_code/anaconda.png?raw=true)
+![](https://github.com/jitendra205saini/Maya/blob/main/maya/instruction_image_folder_not_use_this_code/Anaconda.png?raw=true)
 
 ````
 #open same loction D:/maya/ in anaconda terminal
