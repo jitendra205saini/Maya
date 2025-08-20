@@ -115,7 +115,7 @@ maya/
 |
 ├── Maya.bat
 ├── Maya.py
-├── models
+├── models  <<== create this folder
 └── requirements.txt
 
 ````
