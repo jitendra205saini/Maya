@@ -221,25 +221,25 @@ Important: Make sure that you install the virtual environment with the correct p
 
         [<img src="https://i.ytimg.com/vi/4jx2_j5Seew/maxresdefault.jpg" alt="FFMPEG Installation Instructions" width="300">](https://www.youtube.com/watch?v=4jx2_j5Seew)
 
-  - ***CUDA Toolkit 12.4(needed if utilizing GPU)***
+  - ***CUDA Toolkit 12.9(needed if utilizing GPU)***
 
-     - [Download](https://i.ytimg.com/vi/ZDCuVItpM4k/maxresdefault.jpg) the cudo toolkit
+     - [Download](https://developer.nvidia.com/cuda-12-9-0-download-archive?target_os=Windows&target_arch=x86_64&target_version=11&target_type=exe_local) the cudo toolkit
        
      - Watch the installation instructions by clicking the image below:
        
-       [<img src="https://i.ytimg.com/vi/r7Am-ZGMef8/maxresdefault.jpg" alt="CUDA Installation Instructions" width="300">](https://youtu.be/ZDCuVItpM4k?si=mQ3t5isVQPfF6kRS)
+       [<img src="https://i.ytimg.com/vi/ZDCuVItpM4k/maxresdefault.jpg" alt="CUDA Installation Instructions" width="300">](https://youtu.be/ZDCuVItpM4k?si=mQ3t5isVQPfF6kRS)
     
 
     - Check if the installation was successful (run in the terminal)
 
     -  ```nvcc --version```
-   - ***cuDNN = latest for CUDA 12.4 (needed if utilizing GPU)***
+   - ***cuDNN = latest for CUDA 12.9 (needed if utilizing GPU)***
 
-     - [Download](https://i.ytimg.com/vi/RY2mEbi7PJc/maxresdefault.jpg) the cuDNN = latest
+     - [Download](https://developer.nvidia.com/cudnn-downloads?target_os=Windows&target_arch=x86_64&target_version=11&target_type=exe_local) the cuDNN = latest
 
      - Watch the installation instructions by clicking the image below:
 
-       [<img src="https://i.ytimg.com/vi/GPBeiKYkuZE/maxresdefault.jpg" alt="cuDNN Installation Instructions" width="300">](https://youtu.be/RY2mEbi7PJc?si=-pCG19hzt4CdhCyg)
+       [<img src="https://i.ytimg.com/vi/RY2mEbi7PJc/maxresdefault.jpg" alt="cuDNN Installation Instructions" width="300">](https://youtu.be/RY2mEbi7PJc?si=-pCG19hzt4CdhCyg)
     
 ### How to update ###
    
