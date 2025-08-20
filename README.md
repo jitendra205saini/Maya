@@ -227,7 +227,7 @@ Important: Make sure that you install the virtual environment with the correct p
        
      - Watch the installation instructions by clicking the image below:
        
-       [<img src="https://i.ytimg.com/vi/r7Am-ZGMef8/maxresdefault.jpg" alt="CUDA Installation Instructions" width="300">](https://www.youtube.com/watch?v=r7Am-ZGMef8&t=612s)
+       [<img src="https://i.ytimg.com/vi/r7Am-ZGMef8/maxresdefault.jpg" alt="CUDA Installation Instructions" width="300">](https://www.youtube.com/watch?v=r7Am-ZGMef8&t=300s)
     
 
     - Check if the installation was successful (run in the terminal)
