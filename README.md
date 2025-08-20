@@ -115,7 +115,7 @@ maya/
 |
 ├── Maya.bat
 ├── Maya.py
-├── models  <<== create this folder
+├── models  
 └── requirements.txt
 
 ````
@@ -156,6 +156,7 @@ maya/
 - ***models***
 
      - [Download Kaggle here](https://www.kaggle.com/models/jitendrakumarsaini25/maya_face_-swapping)
+     - Place the downloaded model files in the ```maya/models``` folder
        ![](https://github.com/jitendra205saini/Maya/blob/main/maya/instruction_image_folder_not_use_this_code/kaggle.png?raw=true)
 
 1. Select a folder, or create one (not /system32). Once you're in that folder, you can right-click it and select, 'Open in Terminal'
@@ -209,12 +210,6 @@ python -m pip install -r requirements.txt
 Important: Make sure that you install the virtual environment with the correct python version. Rope only works with with any 3.10 version, nothing older or newer than that.
 
 4.Download and install 3rd-party dependencies
-
-- Install the models
-
-  - To get access to all the features of Rope, you need to download [the models from here](https://www.kaggle.com/models/jitendrakumarsaini25/maya_face_-swapping).scroll down and You need all of the files.
-
-  - Place the downloaded model files in the ```maya/models``` folder
 
 - Install the external dependencies (if you haven't done so already)
 
