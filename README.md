@@ -106,12 +106,14 @@ Important: Make sure that you install the virtual environment with the correct p
       
       - Watch the installation instructions by clicking the image below:
 
-      - [<img src="https://i.ytimg.com/vi/4jx2_j5Seew/maxresdefault.jpg" alt="FFMPEG Installation Instructions" width="300">](https://www.youtube.com/watch?v=4jx2_j5Seew)
+        [<img src="https://i.ytimg.com/vi/4jx2_j5Seew/maxresdefault.jpg" alt="FFMPEG Installation Instructions" width="300">](https://www.youtube.com/watch?v=4jx2_j5Seew)
 
   - ***CUDA Toolkit 12.4(needed if utilizing GPU)***
 
      - [Download](https://developer.nvidia.com/cuda-12-4-0-download-archive#:~:text=Select%20Target%20Platform.%20Click%20on%20the%20green%20buttons%20that) the cudo toolkit
-
+       
+     - Watch the installation instructions by clicking the image below:
+       
      - [Follow these instructions](https://www.youtube.com/watch?v=r7Am-ZGMef8&t=612s)to install CUDA Toolkit v12.4
 
     - Check if the installation was successful (run in the terminal)
