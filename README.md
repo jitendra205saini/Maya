@@ -190,7 +190,7 @@ python --version
 
 or using anaconda3
 
-![](https://github.com/jitendra205saini/Maya/blob/main/maya/maya/media/Screenshot%202024-10-02%20172209.png?raw=true)
+![](https://github.com/jitendra205saini/Maya/blob/main/maya/instruction_image_folder_not_use_this_code/anaconda.png?raw=true)
 
 ````
 #open same loction D:/maya/ in anaconda terminal
