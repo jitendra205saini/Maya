@@ -215,7 +215,7 @@ Important: Make sure that you install the virtual environment with the correct p
 
    - ***FFMPEG***
 
-      - [Download FFMPEG here](https://www.ffmpeg.org/download.html)
+      - [Download](https://www.ffmpeg.org/download.html) FFMPEG here
       
       - Watch the installation instructions by clicking the image below:
 
