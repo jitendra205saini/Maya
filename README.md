@@ -35,17 +35,30 @@
 ----
 1.requirements 👉 
 
-(i) [python varsion 3.10](https://www.python.org/downloads/windows/)
+(i) [python varsion 3.10]
 
-(ii) [anaconda](https://www.anaconda.com/download/)
+(ii) [anaconda]
 
-(iii) [FFMPEG](https://www.ffmpeg.org/download.html)
+(iii) [FFMPEG]
 
-(iv) [CUDO](https://developer.nvidia.com/cuda-12-4-0-download-archive#:~:text=Select%20Target%20Platform.%20Click%20on%20the%20green%20buttons%20that)
+(iv) [CUDO]
 
-(v) [cuDNN](https://developer.nvidia.com/rdp/cudnn-archive#:~:text=Explore%20and%20download%20past%20releases%20from%20cuDNN)
+(v) [cuDNN]
 
-(vi) [models](https://www.kaggle.com/models/jitendrakumarsaini25/maya_face_-swapping) scroll down and all file download 
+(vi) [models]
+
+
+- ***python varsion 3.10***
+    
+     - [Download python here](https://www.python.org/downloads/windows/)
+
+- ***anaconda***
+
+     - [Download python here](https://www.anaconda.com/download/)
+
+- ***models***
+
+     - [Download Kaggle here](https://www.kaggle.com/models/jitendrakumarsaini25/maya_face_-swapping)
 
 1. Select a folder, or create one (not /system32). Once you're in that folder, you can right-click it and select, 'Open in Terminal'
 
