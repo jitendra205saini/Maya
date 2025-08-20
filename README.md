@@ -25,7 +25,7 @@
 
 ### Maya installetion 😊 :-
 
-**Hardware Requirements**:
+**Hardware Requirements**:-
 
 | Requirement Type | CPU | RAM | GPU | Storage | OS |
 |------------------|-----|-----|-----|---------|----|
