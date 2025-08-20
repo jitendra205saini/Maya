@@ -124,8 +124,10 @@ Important: Make sure that you install the virtual environment with the correct p
 
      - [Download](https://developer.nvidia.com/rdp/cudnn-archive#:~:text=Explore%20and%20download%20past%20releases%20from%20cuDNN) the cuDNN = latest
 
-     - [Follow these instructions](https://www.youtube.com/watch?v=GPBeiKYkuZE&t=240s) to install cuDNN
+     - Watch the installation instructions by clicking the image below:
 
+       [<img src="https://i.ytimg.com/vi/GPBeiKYkuZE/maxresdefault.jpg" alt="cuDNN Installation Instructions" width="300">](https://www.youtube.com/watch?v=GPBeiKYkuZE&t=240s)
+    
 ### How to update ###
    
    - To update the repository to its latest version, simply navigate to the maya directory and open the terminal.
