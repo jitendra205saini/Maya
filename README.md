@@ -21,7 +21,104 @@
       - The meaning of this verse is that Maya (illusion) constantly leads us astray like a 
         mirage, causing us to forget our true nature. When we swap faces (face swapping), it is 
         merely an illusory change, as in the end, the truth is what remains permanent and real.
+````
+maya/
+│
+├── chehra(face)/      # Input faces (images)
+│   ├── face2.jpg
+│   └── face2.png
+|
+├── lakshya(target)/   # Input target (video / image)
+│   ├── target_image.mp4
+│   └── target_image.jpg
+|
+├── maya/
+│   ├── __pycache__/
+│   │   ├── Coordinator.cpython-310.pyc
+│   │   ├── Coordinator.cpython-312.pyc
+│   │   ├── Coordinator.cpython-38.pyc
+│   │   ├── Dicts.cpython-310.pyc
+│   │   ├── Dicts.cpython-38.pyc
+│   │   ├── GUI.cpython-310.pyc
+│   │   ├── GUI.cpython-38.pyc
+│   │   ├── GUIElements.cpython-310.pyc
+│   │   ├── GUIElements.cpython-38.pyc
+│   │   ├── Models.cpython-310.pyc
+│   │   ├── Models.cpython-38.pyc
+│   │   ├── Styles.cpython-310.pyc
+│   │   ├── Styles.cpython-38.pyc
+│   │   ├── VideoManager.cpython-310.pyc
+│   │   ├── VideoManager.cpython-38.pyc
+│   │   └── rope.cpython-38.pyc
+│   │
+│   ├── external/
+│   │   └── __pycache__/
+│   │   |   ├── clipseg.cpython-310.pyc
+│   │   |   └── clipseg.cpython-38.pyc
+│   │   |
+│   |   ├── cliplib/
+│   │   |     ├── __init__.py
+│   │   |     ├── bpe_simple_vocab_16e6.txt.gz
+│   │   |     ├── clip.py
+│   │   |     ├── model.py
+│   │   |     ├── simple_tokenizer.py
+│   │   ├── clipseg.py
+│   │   └── resnet.py
+│   │
+│   └── media/
+│   |    ├── OffState.png
+│   |    ├── OnState.png
+│   |    ├── Screenshot 2024-10-02 172025.png
+│   |    ├── Screenshot 2024-10-02 172209.png
+│   |    ├── _add_marker_hover.png
+│   |    ├── _add_marker_off.png
+│   |    ├── marker.png
+│   |    ├── maya.png
+│   |    ├── next_marker_hover.png
+│   |    ├── next_marker_off.png
+│   |    ├── play_hover.png
+│   |    ├── play_off.png
+│   |    ├── play_on.png
+│   |    ├── previous_marker_hover.png
+│   |    ├── previous_marker_off.png
+│   |    ├── rec_hover.png
+│   |    ├── rec_off.png
+│   |    ├── rec_on.png
+│   |    ├── remove_marker_hover.png
+│   |    ├── remove_marker_off.png
+│   |    ├── save.png
+│   |    ├── splash.png
+│   |    ├── stop_hover.png
+│   |    ├── stop_off.png
+│   |    ├── stop_on.png
+│   |    ├── tL_beg_hover.png
+│   |    ├── tL_beg_off.png
+│   |    ├── tL_beg_on.png
+│   |    ├── tL_left_hover.png
+│   |    ├── tL_left_off.png
+│   |    ├── tL_left_on.png
+│   |    ├── tL_right_hover.png
+│   |    ├── tL_right_off.png
+│   |    └── tL_right_on.png
+│   | 
+│   ├── Coordinator.py
+│   ├── Dicts.py
+│   ├── GUI.py
+│   ├── GUIElements.py
+│   ├── Models.py
+│   ├── Styles.py
+│   └── VideoManager.py
+│
+├── parinaam(result)/  # Output (final swapped video/image)
+│   ├── result_video.mp4
+│   └── result_image.jpg
+|
+├── Maya.bat
+├── Maya.py
+├── models
+└── requirements.txt
 
+````
 
 ### Maya installetion 😊 :-
 
@@ -183,6 +280,7 @@ git reset --hard origin/master
    - Press ```Play``` again to stop the recording, or wait for the video to reach the end.
 
 ---
+
 
 
 Follow me on LinkedIn : [click](https://www.linkedin.com/in/jitendarkumarsaini25/)
