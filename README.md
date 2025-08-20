@@ -223,11 +223,11 @@ Important: Make sure that you install the virtual environment with the correct p
 
   - ***CUDA Toolkit 12.4(needed if utilizing GPU)***
 
-     - [Download](https://developer.nvidia.com/cuda-12-4-0-download-archive#:~:text=Select%20Target%20Platform.%20Click%20on%20the%20green%20buttons%20that) the cudo toolkit
+     - [Download](https://i.ytimg.com/vi/ZDCuVItpM4k/maxresdefault.jpg) the cudo toolkit
        
      - Watch the installation instructions by clicking the image below:
        
-       [<img src="https://i.ytimg.com/vi/r7Am-ZGMef8/maxresdefault.jpg" alt="CUDA Installation Instructions" width="300">](https://www.youtube.com/watch?v=r7Am-ZGMef8&t=300s)
+       [<img src="https://i.ytimg.com/vi/r7Am-ZGMef8/maxresdefault.jpg" alt="CUDA Installation Instructions" width="300">](https://youtu.be/ZDCuVItpM4k?si=mQ3t5isVQPfF6kRS)
     
 
     - Check if the installation was successful (run in the terminal)
@@ -235,11 +235,11 @@ Important: Make sure that you install the virtual environment with the correct p
     -  ```nvcc --version```
    - ***cuDNN = latest for CUDA 12.4 (needed if utilizing GPU)***
 
-     - [Download](https://developer.nvidia.com/rdp/cudnn-archive#:~:text=Explore%20and%20download%20past%20releases%20from%20cuDNN) the cuDNN = latest
+     - [Download](https://i.ytimg.com/vi/RY2mEbi7PJc/maxresdefault.jpg) the cuDNN = latest
 
      - Watch the installation instructions by clicking the image below:
 
-       [<img src="https://i.ytimg.com/vi/GPBeiKYkuZE/maxresdefault.jpg" alt="cuDNN Installation Instructions" width="300">](https://www.youtube.com/watch?v=GPBeiKYkuZE&t=240s)
+       [<img src="https://i.ytimg.com/vi/GPBeiKYkuZE/maxresdefault.jpg" alt="cuDNN Installation Instructions" width="300">](https://youtu.be/RY2mEbi7PJc?si=-pCG19hzt4CdhCyg)
     
 ### How to update ###
    
