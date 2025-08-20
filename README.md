@@ -29,8 +29,8 @@
 
 | Requirement Type | CPU | RAM | GPU | Storage | OS |
 |------------------|-----|-----|-----|---------|----|
-| **Minimum**      | Intel Core i5 | 8 GB | NVIDIA GTX 1050 (2 GB VRAM) | 10 GB SSD | Windows 10/11 |
-| **Recommended**  | Intel Core i7 | 16 GB | NVIDIA RTX 2060 (6 GB VRAM) | 20 GB NVMe SSD | Windows 11 |
+| **Minimum**      | Intel Core i5 (8th Gen, 4 cores, e.g., i5-8250U) or AMD Ryzen 5 (3rd Gen, e.g., Ryzen 5 3500U | 8 GB | NVIDIA GTX 1050 (2 GB VRAM) | 10 GB SSD | Windows 10/11 |
+| **Recommended**  | Intel Core i7 (13th Gen, 6 cores, e.g., i7-13700H) or AMD Ryzen 7 (7th Gen, e.g., Ryzen 7 7840HS) | 16 GB | NVIDIA RTX 2060 (6 GB VRAM) | 20 GB NVMe SSD | Windows 11 |
 
 ----
 1.requirements 👉 
